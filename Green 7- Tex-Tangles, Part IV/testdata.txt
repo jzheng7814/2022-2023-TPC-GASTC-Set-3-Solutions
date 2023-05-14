@@ -1,0 +1,67 @@
+4 4
+X
+
+X  X  X  X
+X  X  X  X
+X  X  X  X
+X  X  X  X
+
+
+8 4
+E
+
+E  E  E  E
+E  E  E  E
+E  E  E  E
+E  E  E  E
+E  E  E  E
+E  E  E  E
+E  E  E  E
+E  E  E  E
+
+
+1 2
+M
+
+M  M
+
+
+7 4
+Y
+
+Y  Y  Y  Y
+Y  Y  Y  Y
+Y  Y  Y  Y
+Y  Y  Y  Y
+Y  Y  Y  Y
+Y  Y  Y  Y
+Y  Y  Y  Y
+
+
+9 8
+F
+
+F  F  F  F  F  F  F  F
+F  F  F  F  F  F  F  F
+F  F  F  F  F  F  F  F
+F  F  F  F  F  F  F  F
+F  F  F  F  F  F  F  F
+F  F  F  F  F  F  F  F
+F  F  F  F  F  F  F  F
+F  F  F  F  F  F  F  F
+F  F  F  F  F  F  F  F
+
+
+8 4
+E
+
+E  E  E  E
+E  E  E  E
+E  E  E  E
+E  E  E  E
+E  E  E  E
+E  E  E  E
+E  E  E  E
+E  E  E  E
+
+
